@@ -23,3 +23,6 @@ To run the project locally:
 
 ## 📄 License
 MIT License
+
+
+<img width="1596" alt="Screenshot 2023-08-01 at 22 52 58" src="https://github.com/ericphamm/Calculator/assets/119808652/63940895-99b7-4dfb-9ad5-79e2f6e11bbb">
